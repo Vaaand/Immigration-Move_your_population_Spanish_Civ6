@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Data_Localization -->
+<!-- Author: aall1 -->
+<!-- DateCreated: 3/4/2019 5:27:12 PM -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_UNIT_IMMIGRATION_ONE_NAME">
+			<Text>Inmigración - 1 Pob.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_IMMIGRATION_TWO_NAME">
+			<Text>Inmigración - 2 Pob.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_IMMIGRATION_THREE_NAME">
+			<Text>Inmigración - 3 Pob.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_IMMIGRATION_FOUR_NAME">
+			<Text>Inmigración - 4 Pob.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_IMMIGRATION_FIVE_NAME">
+			<Text>Inmigración - 5 Pob.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_IMMIGRATION_ONE_DESCRIPTION">
+			<Text>Aumenta la población de [ICON_Citizen] de la ciudad en 1 cuando se usa. Reduce la población de [ICON_Citizen] de la ciudad en 1 cuando se completa.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_IMMIGRATION_TWO_DESCRIPTION">
+			<Text>Aumenta la población de [ICON_Citizen] de la ciudad en 2 cuando se usa. Reduce la población de [ICON_Citizen] de la ciudad en 2 cuando se completa.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_IMMIGRATION_THREE_DESCRIPTION">
+			<Text>Aumenta la población de [ICON_Citizen] de la ciudad en 3 cuando se usa. Reduce la población de [ICON_Citizen] de la ciudad en 3 cuando se completa.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_IMMIGRATION_FOUR_DESCRIPTION">
+			<Text>Aumenta la población de [ICON_Citizen] de la ciudad en 4 cuando se usa. Reduce la población de [ICON_Citizen] de la ciudad en 4 cuando se completa.</Text>
+		</Row>
+     	<Row Tag="LOC_UNIT_IMMIGRATION_FIVE_DESCRIPTION">
+			<Text>Aumenta la población de [ICON_Citizen] de la ciudad en 5 cuando se usa. Reduce la población de [ICON_Citizen] de la ciudad en 5 cuando se completa. Una vez utilizado, obtiene un ingeniero militar libre con el gobierno del fascismo, obtiene un constructor libre con el gobierno del comunismo, obtiene un comerciante libre con el gobierno de la democracia.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_IMMIGRATION_NAME">
+			<Text>Inmigración</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_IMMIGRATION_NAME">
+			<Text>Aumento de la población</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_IMMIGRATION_DESCRIPTION">
+			<Text>Aumenta la población de [ICON_Citizen] de la ciudad (usa esto cuando la unidad está en el centro de la ciudad).</Text>
+		</Row>
+	    <Row Tag="LOC_POLICY_MIGRATION_POLICY_NAME">
+			<Text>Migración política</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MIGRATION_POLICY_DESCRIPTION">
+			<Text>+ 30% [ICON_Production] Producción hacia Inmigraciones. +1 [ICON_Movement] Movimiento para todas las unidades de inmigración.</Text>
+		</Row>
+	</EnglishText>
+	
+	
+	
+	<LocalizedText>
+		<Replace Tag="LOC_UNIT_IMMIGRATION_ONE_NAME" Language="zh_Hans_CN">
+			<Text>移民 - 1人口</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_IMMIGRATION_TWO_NAME" Language="zh_Hans_CN">
+			<Text>移民 - 2人口</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_IMMIGRATION_THREE_NAME" Language="zh_Hans_CN">
+			<Text>移民 - 3人口</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_IMMIGRATION_FOUR_NAME" Language="zh_Hans_CN">
+			<Text>移民 - 4人口</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_IMMIGRATION_FIVE_NAME" Language="zh_Hans_CN">
+			<Text>移民 - 5人口</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_IMMIGRATION_ONE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>使用后为当前所在城市+1 [ICON_Citizen] 人口，训练完成时当前城市-1 [ICON_Citizen] 人口。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_IMMIGRATION_TWO_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>使用后为当前所在城市+2 [ICON_Citizen] 人口，训练完成时当前城市-2 [ICON_Citizen] 人口。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_IMMIGRATION_THREE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>使用后为当前所在城市+3 [ICON_Citizen] 人口，训练完成时当前城市-3 [ICON_Citizen] 人口。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_IMMIGRATION_FOUR_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>使用后为当前所在城市+4 [ICON_Citizen] 人口，训练完成时当前城市-4 [ICON_Citizen] 人口。</Text>
+		</Replace>
+	    <Replace Tag="LOC_UNIT_IMMIGRATION_FIVE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>使用后为当前所在城市+5 [ICON_Citizen] 人口，训练完成时当前城市-5 [ICON_Citizen] 人口。使用后，若是法西斯政体则获得一个免费的军事工程师，若是共产政体则获得一个免费的工人，若是民主政体则获得一个免费的商人。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_IMMIGRATION_NAME" Language="zh_Hans_CN">
+			<Text>移民</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_IMMIGRATION_NAME" Language="zh_Hans_CN">
+			<Text>增加人口</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_IMMIGRATION_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>增加当前所在城市的 [ICON_Citizen] 人口。（必须在单位处于市中心时使用。）</Text>
+		</Replace>
+	    <Replace Tag="LOC_POLICY_MIGRATION_POLICY_NAME" Language="zh_Hans_CN">
+			<Text>政治迁徙</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_MIGRATION_POLICY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>为移民+30% [ICON_Production] 生产力。所有移民单位+1 [ICON_Movement] 移动力。</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
